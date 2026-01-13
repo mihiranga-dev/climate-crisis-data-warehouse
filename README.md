@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://app.powerbi.com/links/lbUl21BqkW?ctid=a6ec0f1c-2a34-41a9-ad11-2275a4888497&pbi_source=linkShare&bookmarkGuid=fc775775-c2d3-4b20-9dce-36c84cb2f94f)**
+**[View Live Demo](https://app.powerbi.com/links/r-ykEaXu9e?ctid=a6ec0f1c-2a34-41a9-ad11-2275a4888497&pbi_source=linkShare)**
 
 </div>
 
