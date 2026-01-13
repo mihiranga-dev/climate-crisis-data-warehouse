@@ -76,4 +76,4 @@ This project required solving several significant data engineering challenges:
 
 - **Mihiranga**
 
-**[Connect on LinkedIn](www.linkedin.com/in/mihiranga-dev)**
+* [Connect on LinkedIn](https://www.linkedin.com/in/mihiranga-dev/)
